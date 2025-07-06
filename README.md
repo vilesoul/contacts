@@ -71,7 +71,8 @@ spring.h2.console.enabled=true
 spring.h2.console.path=/h2-console
 
 
-🎯 Project Purpose
+## 🎯 Project Purpose
+
 This project was created as a personal portfolio exercise to demonstrate the implementation of a standard CRUD web system using Spring Boot. It highlights:
 
 Proper MVC architecture
@@ -82,7 +83,7 @@ Data validation
 
 Custom exception handling
 
-📌 Future Improvements
+## 📌 Future Improvements
 Add Swagger/OpenAPI documentation
 
 Integrate with a relational external database (e.g., MySQL or PostgreSQL)
@@ -92,7 +93,7 @@ Implement Spring Security for authentication
 Deploy to cloud platforms (e.g., Heroku, Render)
 
 
-📬 Contact
+## 📬 Contact
 Feel free to reach out if you have any questions or suggestions!
 levisoul@hotmail.com
 
