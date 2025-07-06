@@ -51,7 +51,7 @@ This project includes comprehensive unit tests written with JUnit 5 and Mockito,
 ## 🛠️ How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/contact-manager-api.git
+git clone https://github.com/vilesoul/contacts.git
 
 
 2. Open the project in your IDE (e.g., IntelliJ, Eclipse)
